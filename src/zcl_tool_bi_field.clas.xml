@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_TOOL_BI_FIELD</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Shell for BI field</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS_CLASS>
+    <SEOCLASSTX>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>3</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>9</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>C</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>H</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>K</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>L</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>N</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>O</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>Q</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>U</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>V</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>X</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>Y</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>d</LANGU>
+     <DESCRIPT>Shell for BI field</DESCRIPT>
+    </SEOCLASSTX>
+   </DESCRIPTIONS_CLASS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

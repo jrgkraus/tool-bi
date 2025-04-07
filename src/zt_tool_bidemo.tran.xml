@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TRAN" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TSTC>
+    <TCODE>ZT_TOOL_BIDEMO</TCODE>
+    <PGMNA>SAPMZTOOL_DEMO_TA</PGMNA>
+    <DYPNO>0001</DYPNO>
+   </TSTC>
+   <TSTCC>
+    <TCODE>ZT_TOOL_BIDEMO</TCODE>
+   </TSTCC>
+   <TSTCT>
+    <SPRSL>E</SPRSL>
+    <TCODE>ZT_TOOL_BIDEMO</TCODE>
+    <TTEXT>Demo for batch input tool</TTEXT>
+   </TSTCT>
+   <I18N_TPOOL>
+    <TSTCT>
+     <SPRSL>1</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>3</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>9</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>C</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>F</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>H</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>I</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>K</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>L</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>N</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>O</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>P</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>Q</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>S</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>U</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>V</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>X</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>Y</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+    <TSTCT>
+     <SPRSL>d</SPRSL>
+     <TTEXT>Demo for batch input tool</TTEXT>
+    </TSTCT>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
