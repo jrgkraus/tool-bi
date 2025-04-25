@@ -53,19 +53,19 @@ class zcl_tool_bi_transaction definition
   protected section.
   private section.
     data dynpros type standard table of ref to zcl_tool_bi_dynpro with empty key.
-    data bdcdata_lines type bdcdata_tab.
+    data bdcdata_lines type zcl_tool_bi_types=>bdcdata_lines.
     data tcode type sy-tcode.
     data options type ctu_params.
-    data messages type tab_bdcmsgcoll.
+    data messages type zcl_tool_bi_types=>bdcmsgcoll_lines.
 
     methods merge
       returning
-        value(result) type bdcdata_tab.
+        value(result) type zcl_tool_bi_types=>bdcdata_lines.
 
     methods add_to_log
       importing
         log        type ref to object
-        i_messages type tab_bdcmsgcoll optional.
+        i_messages type zcl_tool_bi_types=>bdcmsgcoll_lines optional.
 
 endclass.
 
